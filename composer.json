@@ -1,0 +1,7 @@
+{
+    "name": "devcorrelator/jquery_jeditable",
+    "description": "From: https://github.com/tuupola/jquery_jeditable",
+    "keywords": ["jquery", "inline", "editing", "edit", "inline-edit"],
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator/jquery_jeditable"
+}
